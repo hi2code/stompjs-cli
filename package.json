@@ -1,0 +1,24 @@
+{
+  "name": "stompjs-cli",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "stompjs-cli": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stompjs",
+    "client",
+    "cli",
+    "test"
+  ],
+  "author": "hi2code",
+  "license": "ISC",
+  "dependencies": {
+    "@stomp/stompjs": "^7.0.0",
+    "commander": "^12.1.0",
+    "ws": "^8.18.0"
+  }
+}
