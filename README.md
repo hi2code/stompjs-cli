@@ -1,6 +1,6 @@
 # stompjs-cli
 
-stompjs-cli is an interactive command-line client for Stompjs.
+stompjs-cli is an interactive command-line client for stomp protocol.
 
 ## Installation
 
