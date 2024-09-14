@@ -14,6 +14,11 @@
     "cli",
     "test"
   ],
+  "repository":{
+    "type": "git",
+    "url":"https://github.com/hi2code/stompjs-cli"
+  },
+  "homepage":"https://github.com/hi2code/stompjs-cli",
   "author": "hi2code",
   "license": "ISC",
   "dependencies": {
