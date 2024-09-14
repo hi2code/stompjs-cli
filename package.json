@@ -1,6 +1,6 @@
 {
   "name": "stompjs-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "bin": {
     "stompjs-cli": "./cli.js"
@@ -12,7 +12,8 @@
     "stompjs",
     "client",
     "cli",
-    "test"
+    "test",
+    "websocket"
   ],
   "repository":{
     "type": "git",
